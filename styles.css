@@ -1,0 +1,10 @@
+h1 {
+    background-color: rgb(166, 255, 0);
+}
+body {
+    background-color: rgb(26, 138, 69);
+  }
+  h2 {
+    font-family: "Times New Roman", Times, serif;
+    border-style: double;
+  }
